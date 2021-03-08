@@ -29,13 +29,24 @@ Websites used:
 
 # EDA:
 - Top 10 raters
+
 ![Screen Shot 2021-03-07 at 9 39 20 PM](https://user-images.githubusercontent.com/72099238/110278218-733dfc80-7f9c-11eb-928d-05485f3d3906.png)
+
+
 - Top 10 beers
+
 ![Screen Shot 2021-03-07 at 9 38 38 PM](https://user-images.githubusercontent.com/72099238/110278228-79cc7400-7f9c-11eb-978d-0ee08ffb7bf0.png)
+
+
 - Most ratings were 3.4-3.8
+
 ![Screen Shot 2021-03-07 at 9 39 39 PM](https://user-images.githubusercontent.com/72099238/110278320-a7b1b880-7f9c-11eb-9b20-1b8cff4bbb6f.png)
+
+
 - ABV
+
 ![Screen Shot 2021-03-07 at 9 39 53 PM](https://user-images.githubusercontent.com/72099238/110278327-a97b7c00-7f9c-11eb-899a-22b3c51115f0.png)
+
 
 # Surprise Library:
 - Simple Prediction
