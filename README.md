@@ -49,21 +49,31 @@ Websites used:
 
 
 # Surprise Library:
+
 - Simple Prediction
+
 ![Screen Shot 2021-03-07 at 10 36 18 PM](https://user-images.githubusercontent.com/72099238/110278450-e2b3ec00-7f9c-11eb-9be3-9525ab810073.png)
+
+
 - Item to Item prediction
+
 ![Screen Shot 2021-03-07 at 10 37 40 PM](https://user-images.githubusercontent.com/72099238/110278464-e9426380-7f9c-11eb-8b15-2a2230eeea47.png)
+
+
 
 # Neural network
 
 ![Screen Shot 2021-03-07 at 10 41 03 PM](https://user-images.githubusercontent.com/72099238/110278538-0d05a980-7f9d-11eb-8725-ec44ea4f525a.png)
+
 
 # LightFM
 
 - Pure Collaborative Filtering : only fit user id and beer id to model.
 - Hybrid model: beside user id and beer id, also fit item feature and user feature. 
 - Pure Collaborative Filtering performed better with AUC: 0.75
+
 ![Screen Shot 2021-03-07 at 10 53 19 PM](https://user-images.githubusercontent.com/72099238/110278609-29a1e180-7f9d-11eb-82fe-f02b6f505834.png)
+
 
 # Conclusion:
 
