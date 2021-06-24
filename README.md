@@ -1,7 +1,7 @@
 # Beer_Recommendation_System
 Student name : Chinh Ho
 
-Instructor Name: Yish Lim
+Instructor Name: Yish Li
 
 # Applications Used:
 
