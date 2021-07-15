@@ -1,7 +1,6 @@
 # Beer_Recommendation_System
 Student name : Chinh Ho
 
-
 # Applications Used:
 
 Data Science Tools Used:
