@@ -23,7 +23,7 @@ Websites used:
 
 - Total beers scraping were 6000 kind of beer.
 - Total raters were 61055 raters.
-- Combined beers and raters together by using beer IDs.
+- Combined beers and raters together by using beer IDs
 
 # EDA:
 - Top 10 raters
